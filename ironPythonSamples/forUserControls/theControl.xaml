@@ -1,0 +1,7 @@
+<UserControl xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="60" Width="60">
+    <Grid Background="Red">
+        <Button Name="btn_do" Margin="5" Content="Do"/>
+    </Grid>
+</UserControl>

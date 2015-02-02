@@ -1,0 +1,8 @@
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="pagesSample" Height="500" Width="700" Background="Gainsboro">
+    <Grid>
+        <Button Content="Load Page" Name="btnLoad" HorizontalAlignment="Left" Margin="10,22,0,0" VerticalAlignment="Top" Width="75"/>
+        <Frame Name="navegador" Margin="0,50,0,0" />
+    </Grid>
+</Window>

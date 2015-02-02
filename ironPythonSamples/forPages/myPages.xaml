@@ -1,0 +1,8 @@
+<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="myPages" Height="300" Width="300">
+    <Grid Background="Black">
+        <Label Foreground="White" Name="lbl" FontSize="30" Content="hello" Margin="0,0,190,236" />
+        <Button Content="Button" HorizontalAlignment="Left" Margin="110,137,0,0" VerticalAlignment="Top" Width="75" Height="42" Click="Button_Click"/>
+    </Grid>
+</Page>

@@ -1,0 +1,8 @@
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="myWindow" Height="300" Width="300" Background="Gray">
+    <Grid >
+        <Label Name="etiqueta" Content="Load button in a grid" />
+        <Grid Name="Contenedor" Margin="0,40,0,0 "/>
+    </Grid>
+</Window>
